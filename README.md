@@ -1,5 +1,5 @@
 # Vehicule-data-DB
-Vehicule data collection of over 28311 Models, 101 Makers manufactured between 1800 to 2017 in sql, json, and csv format.
+Vehicule data collection of over 28311 Models, +90 Makers manufactured between 1800 to 2017 in sql, json, and csv format.
 
 - [Features](#features)
 - [Getting Started](#Getting_Started)
